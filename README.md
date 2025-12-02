@@ -12,10 +12,6 @@ This Magisk module is useful when you are using GSI at Lenovo Tab(Tested on TB37
 - Add option to select Maximum Refresh Rate (selectable between 120Hz and 144Hz).  
 ※Refresh Rate setting and whether DT2W is enabled can be checked in the module description field  
 
-#### The following features have been removed in the latest version  
-・Include TrebleApp to enable “Sleep/wake by magnetic cover” (removed because the latest GSI supports it by default)  
-・Change GSI's props such as fingerprint to Legion Tab's props(~~Due to repeated crashes of some applications at [PixelOS GSI](https://github.com/MisterZtr/PixelOS_gsi/)~~)  
-
 ### Known Issues  
 ・Uninstalling the module will not reactivate the disabled application.  
 　You have to restore it manually if necessary (but I don't think it's necessary...).  
