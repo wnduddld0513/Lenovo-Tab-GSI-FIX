@@ -1,4 +1,4 @@
-# Lenovo-Legion-Tab-GSI-FIX
+# Lenovo-Tab-GSI-FIX
 **by SMART ASW & MONE FIERA modded by wnduddld0513**
 
 This Magisk module is useful when you are using GSI at Lenovo Tab(Tested on TB375FC (Dimensity 8300) LineageOS gsi 23).
